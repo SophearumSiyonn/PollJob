@@ -16,7 +16,7 @@ pipeline {
 
         stage('Deploy') {
             steps {
-                echo 'GitHub Deployment Done'
+                echo 'Changee GitHub Deployment Done'
             }
         }
     }
